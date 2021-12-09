@@ -1,4 +1,4 @@
-### Hi there, I'm Lana 👋 
+### Hello World, I'm Lana 👋 
 
 ## I'm an IT Professional, Software QA Engineer, Automation and Development Enthusiast!
 - 🌱 I’m currently learning mobile automation
