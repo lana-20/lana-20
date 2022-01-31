@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning mobile automation
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love coffee, electroforming and wirewrapping
+- ⚡ Fun fact: I love coffee, coding and generating AI art
 
 ### Connect with me:
 
