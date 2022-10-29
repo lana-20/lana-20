@@ -1,7 +1,7 @@
 ### Hello World, I'm Lana 👋 
 
 ## I'm an IT Professional, Software QA Engineer, Automation and Development Enthusiast!
-- 🌱 I’m currently learning mobile automation
+- 🌱 I’m currently working on web and mobile software automation
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love coffee, coding and generating AI art
