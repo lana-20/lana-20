@@ -6,7 +6,7 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love coffee, coding and generating AI art
 
-![alt text](https://github.com/lana-20/lana-20/blob/master/lana_github_avatar.jpeg)
+<img src="https://github.com/lana-20/lana-20/raw/master/lana_github_avatar.jpeg" width="444" height="444"/>
 
 ### Connect with me:
 
