@@ -1,12 +1,16 @@
-### Hello World, I'm Lana 👋 
+### <img src="https://user-images.githubusercontent.com/70295997/204168383-7a57b869-7cf4-47ea-b558-ff6cb6ccc6af.png" width="30"/> Hello World, I'm Lana!
+
 
 ## I'm an IT Professional, Software Quality Engineer, Automation and Development Enthusiast!
 - 🌱 I’m currently working on web and mobile software test automation
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love coffee, coding and generating AI art
+- ⚡ Fun fact: I love cooking, coding and generating AI art
 
-<img src="https://github.com/lana-20/lana-20/raw/master/lana_github_avatar.jpeg" width="444" height="444"/>
+
+
+<img src="https://github.com/lana-20/lana-20/blob/master/ai_img.jpg" width="200"/><img src="https://user-images.githubusercontent.com/70295997/204167845-e7cf30c5-7360-4eaf-a306-ce5ac9f46487.png" width="200"/><img src="https://user-images.githubusercontent.com/70295997/204167733-cd663d87-f206-46ed-9e73-22edc8ce5cd9.png" width="200"/><img src="https://user-images.githubusercontent.com/70295997/204167995-799cbda5-fd30-44b7-aa25-a549b86d5222.png" width="200"/><img src="https://user-images.githubusercontent.com/70295997/204168116-296bfa65-205f-44c8-a4c5-e1506ae80c16.png" width="200"/>
+
 
 ### Connect with me:
 
