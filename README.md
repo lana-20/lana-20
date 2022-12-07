@@ -8,9 +8,7 @@
 - ⚡ Fun fact: I love cooking, coding and generating AI art
 
 
-
-<img src="https://github.com/lana-20/lana-20/blob/master/ai_img.jpg" width="120"/><img src="https://user-images.githubusercontent.com/70295997/204167845-e7cf30c5-7360-4eaf-a306-ce5ac9f46487.png" width="120"/><img src="https://user-images.githubusercontent.com/70295997/204167733-cd663d87-f206-46ed-9e73-22edc8ce5cd9.png" width="120"/><img src="https://user-images.githubusercontent.com/70295997/204167995-799cbda5-fd30-44b7-aa25-a549b86d5222.png" width="120"/><img src="https://user-images.githubusercontent.com/70295997/204168116-296bfa65-205f-44c8-a4c5-e1506ae80c16.png" width="120"/>
-
+![image](https://user-images.githubusercontent.com/70295997/206300078-d2313538-dde2-4a1f-a56c-7cb774d36c53.png)
 
 ### Connect with me:
 
