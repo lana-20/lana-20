@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on web and mobile software test automation
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love cooking, coding and generating AI art
+- ⚡ Fun fact: I love cooking, coding and generating [AI art](https://miro.com/app/board/uXjVPaOvWD0=/)
 
 
 ![image](https://user-images.githubusercontent.com/70295997/206300078-d2313538-dde2-4a1f-a56c-7cb774d36c53.png)
