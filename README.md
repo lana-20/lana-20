@@ -1,7 +1,7 @@
 ### <img src="https://user-images.githubusercontent.com/70295997/204168383-7a57b869-7cf4-47ea-b558-ff6cb6ccc6af.png" width="30"/> Hello World, I'm Lana!
 
 
-## I'm an IT Professional, Software Quality Engineer, Automation and Development Enthusiast!
+## <img src="https://user-images.githubusercontent.com/70295997/213113706-98026b55-0f38-4324-920b-fbf3ea8aa9b0.png" width=40> I'm an IT Professional, Software Quality Engineer, Automation and Development Enthusiast!
 - 🌱 I’m currently working on web and mobile software test automation
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
