@@ -7,7 +7,7 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cooking, [coding](https://github.com/lana-20/50Projects50Days), [testing](https://github.com/lana-20/mobile-app-testing-checklists) and generating [AI art](https://miro.com/app/board/uXjVPaOvWD0=/)
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/70295997/213064852-16803a49-9996-4f3f-bb74-ed160a6ac52c.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/70295997/213106529-0504b85a-dca1-4ff5-b914-5266004b84ef.png">
 
 
 ### Connect with me:
