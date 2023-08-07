@@ -1,5 +1,4 @@
-### <img src="https://user-images.githubusercontent.com/70295997/204168383-7a57b869-7cf4-47ea-b558-ff6cb6ccc6af.png" width="30"/> Hello World, I'm Lana!
-
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Welcome+to+my+GitHub%E2%9D%97%EF%B8%8F)](https://git.io/typing-svg)
 
 ## <img src="https://user-images.githubusercontent.com/70295997/213113706-98026b55-0f38-4324-920b-fbf3ea8aa9b0.png" width=40> I'm an IT Professional, Software Quality Engineer, Automation and Development Enthusiast!
 - 🌱 I’m currently working on web and mobile software test automation
