@@ -3,7 +3,7 @@
 ## <img src="https://user-images.githubusercontent.com/70295997/213113706-98026b55-0f38-4324-920b-fbf3ea8aa9b0.png" width=40> I'm an IT Professional, Software Quality Engineer, Automation and Development Enthusiast!
 - 🌱 I’m currently working on web and mobile software test automation
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love chillhop, [coding](https://github.com/lana-20/50Projects50Days), [testing](https://github.com/lana-20/mobile-app-testing-checklists), and generating [AI art](https://miro.com/app/board/uXjVPaOvWD0=/)
 
 ### Connect with me:
