@@ -1,3 +1,5 @@
+<a href="https://github.com/mobiumdev/mobium"><img align="right" width="320" src="assets/mobium-ascii.gif" alt="The Mobium logo in colored ASCII art, morphing into a blue morpho butterfly and back"></a>
+
 ## Hi, I'm Lana Begunova
 
 **SDET · QA and AI test automation — mobile, web, and the tools behind them.**
