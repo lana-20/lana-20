@@ -1,4 +1,4 @@
-<a href="https://github.com/mobiumdev/mobium"><img align="left" width="320" src="assets/mobium-ascii.gif" alt="The Mobium logo in colored ASCII art, morphing into a blue morpho butterfly and back"></a>
+<a href="https://github.com/mobiumdev/mobium"><img width="320" src="assets/mobium-ascii.gif" alt="The Mobium logo in colored ASCII art, morphing into a blue morpho butterfly and back"></a>
 
 ## Hi, I'm Lana Begunova
 
@@ -33,7 +33,7 @@ Seattle, WA · [LinkedIn](https://linkedin.com/in/LanaBegunova) · [lanabegunova
 
 ### Stack
 
-**Languages:** Go · Python · Java · TypeScript · JavaScript
-**Automation:** Appium · Selenium / WebDriver BiDi · Playwright · Vibium · pytest · JUnit
-**Mobile:** Android (adb, UiAutomator2, emulators) · iOS (Xcode, XCTest, WebDriverAgent, simulators) · real devices · Charles Proxy
-**AI and CI:** MCP servers · Claude Code agents and skills · GitHub Actions
+- **Languages:** Go · Python · Java · TypeScript · JavaScript
+- **Automation:** Appium · Espresso · Selenium / WebDriver BiDi · Playwright · Vibium · PytTest · TenstNG · JUnit · Vitest · Jest
+- **Mobile:** Android (adb, UiAutomator2, emulators) · iOS (Xcode, XCTest, WebDriverAgent, simulators) · real devices · Charles Proxy
+- **AI and CI:** MCP servers · Claude Code agents and skills · GitHub Actions
