@@ -1,4 +1,4 @@
-<a href="https://github.com/mobiumdev/mobium"><img align="right" width="320" src="assets/mobium-ascii.gif" alt="The Mobium logo in colored ASCII art, morphing into a blue morpho butterfly and back"></a>
+<a href="https://github.com/mobiumdev/mobium"><img align="left" width="320" src="assets/mobium-ascii.gif" alt="The Mobium logo in colored ASCII art, morphing into a blue morpho butterfly and back"></a>
 
 ## Hi, I'm Lana Begunova
 
@@ -22,7 +22,6 @@ Seattle, WA · [LinkedIn](https://linkedin.com/in/LanaBegunova) · [lanabegunova
 
 ### Speaking
 
-- **PNSQC 2026**: poster paper, [*Skip the Wrapper: Making a Browser-Automation CLI Faster*](https://lana-20.github.io/pnsqc-2026-poster). I measured five CLI optimizations under fixed semantics; the one that shipped was a packaging change.
 - **Microsoft Reactor** (InnovateQA): [*Configuring and Launching Appium Mobile Sessions in 30 Minutes*](https://youtu.be/41nBwNj1Qaw)
 - **Microsoft Reactor** (InnovateQA): [*Valet All-Day: Next-Gen AI-Native Mobile Stack*](https://youtu.be/_F9vYEBWP_4)
 - **AB Testing podcast**: [Episode 238, Part 1](https://creators.spotify.com/pod/profile/abtesting/episodes/Episode-238-Lana-Begunova---Part-1-e3p2slv) (Part 2 coming soon)
